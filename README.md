@@ -1,18 +1,24 @@
-# Hola, Soy Carlos Parra
-Tech stack: Python, Java, SQL, Git/GitHub (aprendiendo), Excel Learning now: Programación competitiva (estructuras, complejidad), Ingeniería de software (requisitos, testing), Matemáticas base (precálculo → derivadas → integrales).
+# Ingeniería de Software - Presentación
 
-# Presentación — Ingeniería de Software 1
+Repositorio académico creado para el curso Ingeniería de Software 1 de la Universidad Nacional de Colombia.
 
-## Descripción
-Materiales y entregables de la presentación del curso (UNAL). Incluye diapositivas y apuntes relacionados.
+## Objetivo
+
+Organizar actividades, presentaciones y evidencias relacionadas con el proceso de aprendizaje de la asignatura.
 
 ## Contenido
-- Diapositivas (PPT/PDF)
-- Notas / referencias
 
-## Tecnologías / herramientas
-- PowerPoint / Google Slides
-- GitHub (control de versiones)
+- Actividades del curso
+- Presentaciones académicas
+- Evidencias de trabajo
+- Documentación relacionada con Ingeniería de Software 1
 
-## Estado
-En progreso.
+## Tecnologías y herramientas
+
+- Git
+- GitHub
+- Markdown
+
+## Autor
+
+Carlos Arturo
